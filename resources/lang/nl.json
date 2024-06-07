@@ -1,0 +1,43 @@
+{
+    "Famous Dutch Vloggers": "Bekende Vloggende Nederlanders",
+
+    ":count Favorite vloggers": ":count Favoriete vloggers",
+    ":count Subscribers": ":count Abonnees",
+    "Favorites": "Favorieten",
+
+    "Create account": "Account aanmaken",
+    "Your Name": "Uw naam",
+    "Your Email": "Uw email",
+    "Your Password": "Uw Wachtwoord",
+    "Confirm Your Password": "Bevestig uw wachtwoord",
+    "Your Gender": "Uw geslacht",
+    "Male": "Man",
+    "Female": "Vrouw",
+    "I accept the <a href=\":route\">Terms and Conditions</a> of the website": "Ik accepteer de <a href=\":route\">Algemene Voorwaarden</a>.",
+    "sign up with Facebook": "Aanmelden met Facebook",
+    "sign up with Twitter": "Aanmelden met Twitter",
+    "Already have an account?": "Heeft u al een account?",
+
+    "Sign in": "Inloggen",
+    "Remember Me": "Onthoud Mij",
+    "Forgot my Password": "Wachtwoord vergeten",
+    "Don't you have an account? <a href=\":route\">Register Now!</a>": "Nog geen account? <a href=\":route\">Registreer nu!</a>",
+
+    "Edit profile": "Profiel wijzigen",
+    "Edit favorites": "Favorieten wijzigen",
+
+    "Administration panel": "Administratiepaneel",
+    "Edit": "Bewerken",
+    "Update": "Bijwerken",
+    "Delete": "Verwijder",
+    "Activate": "Activeer",
+    "Deactivate": "Deactiveer",
+
+    "Total vloggers: :count": "Totale vloggers: :count",
+    "Add vlogger": "Vlogger toevoegen",
+    "Edit vlogger": "Bewerk vlogger",
+
+    "Sign out": "Uitloggen",
+
+    "Users": "Gebruikers"
+}
